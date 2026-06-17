@@ -1,6 +1,6 @@
 Markdown
 
-# Quantitative Trading Engine using XGBoost
+# Trading Engine using XGBoost
 
 An end-to-end, production-ready Machine Learning pipeline and backtesting engine built with Python. This project utilizes historical stock data and foreign exchange rates via the Yahoo Finance API to engineer technical quant features and leverage an Optimized XGBoost Classifier for predictive directional trading signals.
 
