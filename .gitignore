@@ -1,0 +1,14 @@
+# Abaikan folder cache internal Python
+__pycache__
+.pyc
+
+# Abaikan folder virtual environment (kalau kamu bikin)
+venv
+.venv
+
+# Abaikan file gambar hasil plot biar repo GitHub gak berat
+.png
+strategy_performance.png
+
+# Abaikan file sisa dari Google Colab  Jupyter
+.ipynb_checkpoints
